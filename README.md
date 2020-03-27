@@ -2,6 +2,13 @@
 
 An easy setup pi script to create an Access Point out of a Raspberry Pi with Ethernet shared internet connection, and to inspect the traffic going across it.
 
+## Installation/Setup
+
+1. Start with a fresh "noobs" or Raspbian desktop and connect to the internet with either Wifi or Ethernet (Note: wifi will no longer be available post-script)
+2. run ```sudo ./initiate.sh```
+3. Restart the pi for best results, but it should be good to connect to
+
+
 ## Quick tcpdump Guide
 
 Quick view in full verbosity
